@@ -1,8 +1,9 @@
 
 # Librarys
 
-// Librerias I2C para controlar el mpu6050
-// la libreria MPU6050.h necesita I2Cdev.h, I2Cdev.h necesita Wire.h
+Librerias I2C para controlar el mpu6050.
+
+la libreria MPU6050.h necesita I2Cdev.h, I2Cdev.h necesita Wire.h
 
     https://github.com/jrowberg/i2cdevlib
 
